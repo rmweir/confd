@@ -33,10 +33,8 @@ require (
 	github.com/sirupsen/logrus v1.0.5
 	github.com/ugorji/go v1.1.1 // indirect
 	github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77
-	golang.org/x/crypto v0.0.0-20180503215945-1f94bef427e3 // indirect
-	golang.org/x/net v0.0.0-20180502164142-640f4622ab69
-	golang.org/x/sys v0.0.0-20180504064212-6f686a352de6 // indirect
-	golang.org/x/text v0.3.0 // indirect
+	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e // indirect
+	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
 	google.golang.org/genproto v0.0.0-20180427144745-86e600f69ee4 // indirect
 	google.golang.org/grpc v1.11.3 // indirect
 	gopkg.in/yaml.v2 v2.2.1
